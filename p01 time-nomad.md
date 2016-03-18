@@ -20,7 +20,9 @@ Stay up to date with your astrological transits, phases of the Sun and the Moon,
 * Explanation of aspects and forces
 * Library of trackers
 
+{% comment %}
 {% include icon-appstore.html appname=page.appname %}
+{% endcomment %}
 
 ### Dashboard
 
