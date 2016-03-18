@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article class="project">
+
+  {% comment %}
+  {% include project-banner-o.html title=page.title subtitle=page.subtitle imageBg=page.bannerBgImg imageIcon=page.bannerProjectIcon %}
+  {% endcomment %}
+
+  {% comment %}
+  {% include project-header.html title=page.title subtitle=page.subtitle img=page.imgHeaderApp %}
+  {% endcomment %}
+
+  <div class="project-content">
+    {{ content }}
+  </div>
+
+</article>

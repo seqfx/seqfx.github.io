@@ -1,0 +1,26 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+        <li><a href="/">Home</a></li>
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+          <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2"></div>
+
+      <div class="footer-col footer-col-3">
+        <p>&copy; {{ site.time | date: "%Y"}} {{ site.title }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
