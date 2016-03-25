@@ -2,7 +2,7 @@
 layout: project
 title: Time Nomad
 permalink: /time-nomad/
-appname: timenomad
+appname: time-nomad/id1092841332?mt=8
 ---
 
 ![Time Nomad app chart for now](/images/time-nomad_chart-for-now.png "Time Nomad app chart for now")
