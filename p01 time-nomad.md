@@ -22,6 +22,15 @@ Stay up to date with your astrological transits, phases of the Sun and the Moon,
 
 {% include icon-appstore.html appname=page.appname %}
 
+### iPhone & iPad
+
+![Time Nomad app iPad version](/images/time-nomad_ipad.png "Time Nomad app iPad version")
+
+Universal app that runs on both devices:
+
+* Your data is synchronized across all your iCloud devices
+* Each device manages its own independent view configuration
+
 ### Dashboard
 
 - - -
@@ -38,6 +47,31 @@ Person specific information:
 
 * Solar-lunar arc, current and natal
 * Current transits categories: important, easy, special
+
+### Chart for now or any date
+
+- - -
+
+![Time Nomad chart for now](/images/time-nomad_chart-for-date.png "Time Nomad chart for now")
+
+Real time chart that shows what is now and what is coming up:
+
+* Configurable view
+* Time scrolling by specified interval
+* Easy aspects filtering
+
+### Solar System view
+
+- - -
+
+![Time Nomad Solar System view](/images/time-nomad_solar-system.png "Time Nomad Solar System view")
+
+Interactive heliocentric chart:
+
+* Current positions of celestial bodies
+* Scroll through time
+* Jump to given date
+* Easy aspects filtering
 
 ### Chart of transits
 
@@ -97,6 +131,7 @@ Tap on element to reveal more details plus astrological meaning and physical par
 * Aspect symbolism
 * Approaching or separating aspect
 * Planetary force
+* Houses
 * Cardinal point meaning
 * Physical facts about each planet
 
