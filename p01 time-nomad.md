@@ -9,7 +9,7 @@ appname: time-nomad/id1092841332?mt=8
 
 # Time Nomad
 
-#### Explore astrology in clarity and style. Track your transits in real time.
+#### Explore astrology in clarity and style. Track transits in real time. See upcoming changes.
 
 Stay up to date with your astrological transits, phases of the Sun and the Moon, explore your natal chart and learn meanings of planetary forces and aspects. Information is presented in unadorned, concise yet expressive manner to help seeing a bigger picture.
 
@@ -17,6 +17,7 @@ Stay up to date with your astrological transits, phases of the Sun and the Moon,
 * Chart for here & now
 * Chart of transits
 * Natal chart
+* Events timeline 
 * Explanation of aspects and forces
 * Library of trackers
 
@@ -42,6 +43,7 @@ General overview:
 * Sun rise & set, day duration
 * Progression of the sun from equinox to equinox
 * Phase of the Moon
+* Retrograde planets
 
 Person specific information:
 
@@ -59,6 +61,19 @@ Real time chart that shows what is now and what is coming up:
 * Configurable view
 * Time scrolling by specified interval
 * Easy aspects filtering
+
+### Aspect list for the chart 
+
+- - -
+
+![Time Nomad chart for now](/images/time-nomad_aspects-list.png "Time Nomad list of chart aspects")
+
+Real time chart that shows what is now and what is coming up:
+
+* Select aspect majority
+* Group by aspects or planets 
+* View cardinal points 
+* Raw angles view option 
 
 ### Solar System view
 
@@ -119,6 +134,45 @@ Natal chart, as well as any other chart, can be presented in a number of ways:
 * Include or exclude cardinal points
 * Tropical or sidereal zodiac wheel
 * Houses wheel
+
+### Aspects timeline
+
+- - -
+
+![Time Nomad aspects timeline](/images/time-nomad_aspects-timeline.png "Time Nomad aspects timeline")
+
+Timeline of aspects around given date:
+
+* For both aspects and transits 
+* Shows retrograde movements
+* Optional Moon display
+
+### Events timeline 
+
+- - -
+
+![Time Nomad events timeline](/images/time-nomad_world-events.png "Time Nomad events timeline")
+
+Timeline of world and personal events of interest around given date:
+
+* Equinoxes and solstices
+* Phases of the Moon
+* Retrograde movements of planets 
+* Solar return
+* Solar-lunar arc
+* Aspects and transits 
+
+### Events summary & notifications
+
+- - -
+
+![Time Nomad events summary](/images/time-nomad_events-summary.png "Time Nomad events summary")
+
+Date-based summary of upcoming and past events of significance:
+
+* Both world and personal events
+* Grouped by proximity to the current date 
+* Configurable daily system notifications
 
 ### Explanation of aspects and forces
 
