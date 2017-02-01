@@ -6,7 +6,7 @@ permalink: /contact/
 
 Questions, comments, suggestions? Send a message here and you will hear back very soon. If response hasn't arrived within a couple of days, **<span style="color: red;">check your spam folder</span> &mdash; response can be waiting for you there**.
 
-Alternatively, use "Contact Developer" from within the app. It is located under the app preferences ('cogwheel' icon) menu on the right side of the screen. This will send an email directly from your mailbox.
+Alternatively, use "Contact Developer" from within the app. It is located under the app preferences ('cogwheel' icon) menu on the left side of the screen. This will send an email directly from your mailbox.
 
 <div id="wufoo-z14l5vo71rps7mw">
 Fill out my <a href="https://seqfx.wufoo.com/forms/z14l5vo71rps7mw">online form</a>.

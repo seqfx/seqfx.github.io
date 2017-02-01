@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 
+title: HIDDEN
 permalink: /project/
 appstoreUri: projectapp
 ---
