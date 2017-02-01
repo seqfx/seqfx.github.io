@@ -1,6 +1,6 @@
 ---
 layout: home
-title: HIDDEN
+title: Time Nomad
 ---
 
 # Mission statement

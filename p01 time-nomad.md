@@ -2,6 +2,7 @@
 layout: project
 title: Time Nomad
 permalink: /time-nomad/
+navitem: yes
 appname: time-nomad/id1092841332?mt=8
 ---
 
