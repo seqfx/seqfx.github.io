@@ -10,17 +10,16 @@ appname: time-nomad/id1092841332?mt=8
 
 # Time Nomad
 
-#### Explore astrology in clarity and style. Track transits in real time. See upcoming changes.
+#### Explore astronomy and astrology in clarity and style. Track transits in real time. See upcoming changes.
 
-Stay up to date with your astrological transits, phases of the Sun and the Moon, explore your natal chart and learn meanings of planetary forces and aspects. Information is presented in unadorned, concise yet expressive manner to help seeing a bigger picture.
+Stay up to date with the Solar System changes, your astrological transits, phases of the Sun and the Moon, explore your natal chart and learn meanings of planetary forces and aspects. Information is presented in unadorned, concise yet expressive manner to help seeing a bigger picture.
 
 * Dashboard with Sun & Moon phases
-* Chart for here & now
+* Solar System heliocentric view
+* Chart for here & now, natal moment
 * Chart of transits
-* Natal chart
-* Events timeline 
-* Explanation of aspects and forces
-* Library of trackers
+* Synastry chart
+* Timeline of celestial changes
 
 {% include icon-appstore.html appname=page.appname %}
 
