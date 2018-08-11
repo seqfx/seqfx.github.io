@@ -11,4 +11,4 @@ Telling stories of data movements in time. Not many words, instead a cockpit vie
 
 ![Time Nomad icon](/images/project-icon-time-nomad.png "Time Nomad icon")
 
-**Time Nomad** — Explore astrology in clarity and style. Track your transits in real time. [More...](/time-nomad/)
+**Time Nomad** — Explore astrology in clarity and style. Track your transits in real time. [More...](https://timenomad.app)

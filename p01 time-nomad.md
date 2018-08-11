@@ -4,6 +4,8 @@ title: Time Nomad
 permalink: /time-nomad/
 navitem: yes
 appname: time-nomad/id1092841332?mt=8
+redirect_to:
+  - https://timenomad.app
 ---
 
 ![Time Nomad app chart for now](/images/time-nomad_chart-for-now.png "Time Nomad app chart for now")

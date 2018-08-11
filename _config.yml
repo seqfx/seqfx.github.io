@@ -21,3 +21,6 @@ github_username:  seqfx
 
 # Build settings
 markdown: kramdown
+#plugins_dir:
+plugins:
+  - jekyll-redirect-from
