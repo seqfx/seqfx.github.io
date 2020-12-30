@@ -12,10 +12,9 @@
 title: seqfx
 email: hi.seqfx@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Experimental software programming development projects for iOS and web.
-  Focus on visual data presentation.
+  Astrological services and software provider.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://seqfx.com" # the base hostname & protocol for your site
+url: "https://seqfx.com" # the base hostname & protocol for your site
 twitter_username:
 github_username:  seqfx
 
