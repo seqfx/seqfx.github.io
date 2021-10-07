@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: empty
 title: Astrology services and software solutions
 ---
 
