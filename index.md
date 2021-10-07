@@ -21,5 +21,3 @@ We specialise in design and development of software for the astrological communi
 ![Time Nomad icon](/images/project-icon-time-nomad.png "Time Nomad astrology app"){: style="border-radius: 8px; object-fit: cover;"}
 
 **Time Nomad** app for iPhone & iPad — A fine astrology app that is always with you, right in your pocket. The app calculates real-time astrological charts, transits, synastry, progressions, fixed stars and much more. [Learn more…](https://timenomad.app)
-
-
