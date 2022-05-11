@@ -1,6 +1,7 @@
 ---
-layout: empty
-title: Astrology services and software solutions
+layout: default
+#layout: empty
+title: Software for the exploration of consciousness
 ---
 
 <div class="home-banner" role="banner" style="background-image: url('/images/project-bg-milky-way.jpg');">
@@ -14,10 +15,18 @@ title: Astrology services and software solutions
   </div>
 </div>
 
-We specialise in design and development of software for the astrological community. The hallmark of our product philosophy is user friendliness and attention to detail. We strive to bring together the information age and the ancient knowledge that served human quest of self-inquiry for millennia and will continue far into the future.
+We specialise in design and development of software that enables the exploration of consciousness. The two main directions are astrology and meditation. 
 
-## Products
+Our apps assist in building bridges between the information age and the ancient knowledge that served human quest of self-inquiry for millennia and will continue far into the future.
 
-![Time Nomad icon](/images/project-icon-time-nomad.png "Time Nomad astrology app"){: style="border-radius: 8px; object-fit: cover;"}
+The hallmark of our product philosophy is user friendliness and attention to detail. 
 
-**Time Nomad** app for iPhone & iPad — A fine astrology app that is always with you, right in your pocket. The app calculates real-time astrological charts, transits, synastry, progressions, fixed stars and much more. [Learn more…](https://timenomad.app)
+## Our Products
+
+[![Time Nomad icon](/images/project-icon-time-nomad.png "Time Nomad astrology app"){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](https://timenomad.app)
+
+**Time Nomad** app for iPhone & iPad — fine astrology app that is always with you, right in your pocket. The app calculates real-time astrological charts, transits, synastry, progressions, fixed stars and much more. [Learn more…](https://timenomad.app)
+
+[![Mind Switch icon](/images/project-icon-mind-switch.png "Mind Switch meditation app"){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/mind-switch)
+
+**Mind Switch** app for iPhone — guided meditation app. [Learn more…](/mind-switch)
