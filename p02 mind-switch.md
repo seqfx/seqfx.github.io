@@ -3,7 +3,7 @@ layout: project
 title: Mind Switch
 permalink: /mind-switch/
 navitem: yes
-#appname: time-nomad/id1092841332?mt=8
+appname: mind-switch-guided-meditation/id1621797795
 #redirect_to:
 #  - https://timenomad.app
 ---
@@ -15,6 +15,8 @@ navitem: yes
 _Mind Switch_ is a guided meditation app. 
 
 The app delivers regularly updated guided meditations that follow reliable technique designed to awaken and enhance your subtle perceptions.
+
+{% include icon-appstore.html appname=page.appname %}
 
 ## The state of flow
 

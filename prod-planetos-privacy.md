@@ -1,14 +1,14 @@
 ---
 layout: project
-title: The Mind Switch App Privacy Policy
-permalink: /mind-switch/privacy
+title: The Planetos App Privacy Policy
+permalink: /planetos/privacy
 ---
 
 # Privacy Policy
 
-### For the Mind Switch app
+### For the Planetos app
 
-Seqfx Pty Ltd (the Vendor) built the the Mind Switch app (the App) as a Commercial app. This SERVICE is provided by the Vendor and is intended for use as is.
+Seqfx Pty Ltd (the Vendor) built the Planetos app (the App) as a Commercial app. This SERVICE is provided by the Vendor and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -63,7 +63,7 @@ We do not knowingly collect personally identifiable information from children. W
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-05-11.
+This policy is effective as of 2022-08-24.
 
 **Contact Us**
 

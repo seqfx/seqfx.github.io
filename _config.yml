@@ -9,13 +9,13 @@
 #
 
 # Site settings
-title: Astrology & Meditation
+title: Astrology & Mindfulness
 legal: 
   name: seqfx Pty Ltd
   business_id: ABN 58 646 748 236
 email: hi.seqfx@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Software for the exploration of consciousness
+  Software for exploration of consciousness
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://seqfx.com" # the base hostname & protocol for your site
 twitter_username:
