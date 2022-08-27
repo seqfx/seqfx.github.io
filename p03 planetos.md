@@ -26,7 +26,7 @@ Zone-out and let your mind drift through animated visual sequences of **true-to-
 
 Creativity flows when your mind is free from stress and anxiety of the modern world. Nothing induces that better than mother nature. Allow yourself a 5-10 minute session to discover that precious feeling.
 
-## Take inspired notes
+## Make inspired notes
 
 Whenever you‘re experiencing a **flow on inspiration** write a quick note for yourself by returning the app to portrait view and tapping on ”Write a Note” in the main menu.
 
