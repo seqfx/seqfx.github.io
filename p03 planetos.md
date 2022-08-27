@@ -16,7 +16,9 @@ _Planetos_ brings to your iPhone an **immersive high-definition photographic div
 
 Open the app each day to discover a new set of original photography that is designed to put you in the state of flow.
 
+{% comment %}
 {% include icon-appstore.html appname=page.appname %}
+{% endcomment %}
 
 ## Designed for relaxation & creative stimulation
 
@@ -26,7 +28,7 @@ Creativity flows when your mind is free from stress and anxiety of the modern wo
 
 ## Take inspired notes
 
-Whenever you‘re experiencing a **flow on inspiration** write a quick note for yourself by returning the app to portrait view and tapping on ”Write a Note” in the main menu (top left corner).
+Whenever you‘re experiencing a **flow on inspiration** write a quick note for yourself by returning the app to portrait view and tapping on ”Write a Note” in the main menu.
 
 All notes are stored in **your iCloud account** and are truly yours, no external storage involved.
 
