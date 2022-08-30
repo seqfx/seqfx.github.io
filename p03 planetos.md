@@ -3,7 +3,7 @@ layout: project
 title: Planetos
 permalink: /planetos/
 navitem: yes
-appname: mind-switch-guided-meditation/id1621797795
+appname: planetos-nature-photography/id1641440963
 #redirect_to:
 #  - https://timenomad.app
 ---
@@ -16,9 +16,7 @@ _Planetos_ brings to your iPhone an **immersive high-definition photographic div
 
 Open the app each day to discover a new set of original photography that is designed to put you in the state of flow.
 
-{% comment %}
 {% include icon-appstore.html appname=page.appname %}
-{% endcomment %}
 
 ## Designed for relaxation & creative stimulation
 
