@@ -1,14 +1,14 @@
 ---
 layout: project
-title: The Mind Switch App Privacy Policy
-permalink: /mind-switch/privacy
+title: Simply Guided Meditations App Privacy Policy
+permalink: /simply-guided-meditations/privacy
 ---
 
 # Privacy Policy
 
-### For the Mind Switch app
+### For the _Simply Guided Meditations_ app
 
-Seqfx Pty Ltd (the Vendor) built the the Mind Switch app (the App) as a Commercial app. This SERVICE is provided by the Vendor and is intended for use as is.
+Seqfx Pty Ltd (the Vendor) built the the _Simply Guided Meditations_ app (the App) as a Commercial app. This SERVICE is provided by the Vendor and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 

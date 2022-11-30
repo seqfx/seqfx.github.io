@@ -27,9 +27,9 @@ The hallmark of our product philosophy is user friendliness and attention to det
 
 **Time Nomad** app for iPhone & iPad — fine astrology app that is always with you, right in your pocket. The app calculates real-time astrological charts, transits, synastry, progressions, fixed stars and much more. [Learn more…](https://timenomad.app)
 
-[![Mind Switch app icon](/images/project-icon-mind-switch.png "Mind Switch meditation app"){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/mind-switch)
+[![Simply Guided Meditations app icon](/images/project-icon-simply-guided-meditations.png "Simply Guided Meditations meditation app"){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/simply-guided-meditations)
 
-**Mind Switch** app for iPhone — guided meditation app. [Learn more…](/mind-switch)
+**Simply Guided Meditations** app for iPhone — guided meditation app. [Learn more…](/simply-guided-meditations)
 
 [![Planetos app icon](/images/project-icon-planetos.jpg "Planetos high-definition immersive nature photography app"){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/planetos)
 
