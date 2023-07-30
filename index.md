@@ -31,6 +31,10 @@ The hallmark of our product philosophy is user friendliness and attention to det
 
 **Simply Guided Meditations** app for iPhone — guided meditation app. [Learn more…](/simply-guided-meditations)
 
+[![Sing Scales app icon](/images/project-icon-sing-scales.png "Sing Scales voice training app""){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/sing-scales-voice-training)
+
+**Sing Scales** app for iPhone — voice training app for non-musicians. [Learn more…](/sing-scales-voice-training)
+
 [![Planetos app icon](/images/project-icon-planetos.jpg "Planetos high-definition immersive nature photography app"){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/planetos)
 
 **Planetos** app for iPhone — immersive high-definition photographic dive into nature. [Learn more…](/planetos)
