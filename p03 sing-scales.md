@@ -3,7 +3,7 @@ layout: project
 title: Sing Scales
 permalink: /sing-scales-voice-training/
 navitem: yes
-appname: sing-scales/id1641440963
+appname: sing-scales/id6455374649
 #redirect_to:
 #  - https://timenomad.app
 ---
@@ -14,9 +14,7 @@ appname: sing-scales/id1641440963
 
 Practice the most fundamental yet creatively challenging art of singing musical scales. It’s the voice training that uniquely tunes the larynx and its vocal cords towards producing and sustaining consistent sound frequencies.
 
-{%comment%}
 {% include icon-appstore.html appname=page.appname %}
-{%endcomment%}
 
 ## Built for non-musicians\*
 
