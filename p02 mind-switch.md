@@ -2,7 +2,7 @@
 layout: project
 title: Simply Guided Meditations
 permalink: /simply-guided-meditations/
-navitem: yes
+navitem: no
 appname: simply-guided-meditations/id1621797795
 #redirect_to:
 #  - https://timenomad.app

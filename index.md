@@ -27,9 +27,9 @@ The hallmark of our product philosophy is user friendliness and attention to det
 
 **Time Nomad** app for iPhone & iPad — fine astrology app that is always with you, right in your pocket. The app calculates real-time astrological charts, transits, synastry, progressions, fixed stars and much more. [Learn more…](https://timenomad.app)
 
-[![Simply Guided Meditations app icon](/images/project-icon-simply-guided-meditations.png "Simply Guided Meditations meditation app"){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/simply-guided-meditations)
+[![Simply Guided Meditations app icon](/images/project-icon-simply-guided-meditations.png "Simply Guided Meditations meditation app"){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/3em-third-eye-meditation)
 
-**Simply Guided Meditations** app for iPhone — guided meditation app. [Learn more…](/simply-guided-meditations)
+**3EM • Third Eye Meditation** app for iPhone — a third eye meditation training course in an app. [Learn more…](/3em-third-eye-meditation)
 
 [![Sing Scales app icon](/images/project-icon-sing-scales.png "Sing Scales voice training app""){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/sing-scales-voice-training)
 
