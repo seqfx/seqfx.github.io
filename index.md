@@ -1,7 +1,7 @@
 ---
 layout: default
 #layout: empty
-title: Software for the exploration of consciousness
+title: Software for exploration of consciousness
 ---
 
 <div class="home-banner" role="banner" style="background-image: url('/images/project-bg-milky-way.jpg');">
@@ -15,7 +15,7 @@ title: Software for the exploration of consciousness
   </div>
 </div>
 
-We specialise in design and development of software that enables the exploration of consciousness. The main directions are astrology, mindfulness and meditation. 
+We specialise in design and development of software that facilitates the process of exploration of consciousness. The main directions are astrology, mindfulness, meditation and musical education. 
 
 Our apps assist in building bridges between the information age and the ancient knowledge that served human quest of self-inquiry for millennia and will continue far into the future.
 
