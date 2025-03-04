@@ -27,13 +27,13 @@ The hallmark of our product philosophy is user friendliness and attention to det
 
 **Time Nomad** app for iPhone & iPad — fine astrology app that is always with you, right in your pocket. The app calculates real-time astrological charts, transits, synastry, progressions, fixed stars and much more. [Learn more…](https://timenomad.app)
 
+[![Sing Scales app icon](/images/project-icon-sing-scales.png "Sing Scales voice training app""){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/sing-scales-voice-training)
+
+**Sing Scales** app for iPhone — voice training app for both musicians and non-musicians. [Learn more…](/sing-scales-voice-training)
+
 [![Simply Guided Meditations app icon](/images/project-icon-simply-guided-meditations.png "Simply Guided Meditations meditation app"){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/3em-third-eye-meditation)
 
 **3EM • Third Eye Meditation** app for iPhone — a third eye meditation training course in an app. [Learn more…](/3em-third-eye-meditation)
-
-[![Sing Scales app icon](/images/project-icon-sing-scales.png "Sing Scales voice training app""){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/sing-scales-voice-training)
-
-**Sing Scales** app for iPhone — voice training app for non-musicians. [Learn more…](/sing-scales-voice-training)
 
 [![Planetos app icon](/images/project-icon-planetos.jpg "Planetos high-definition immersive nature photography app"){: style="width: 76px; border-radius: 8px; object-fit: cover;"}](/planetos)
 
